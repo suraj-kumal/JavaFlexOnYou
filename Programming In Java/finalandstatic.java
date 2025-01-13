@@ -26,5 +26,7 @@ public class finalandstatic {
         obj2.counter = 100;
 
         obj1.displayCounter();
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 }

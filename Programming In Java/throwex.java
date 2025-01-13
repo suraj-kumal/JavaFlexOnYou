@@ -6,6 +6,7 @@ public class throwex {
         } else {
             System.out.println("you are in");
         }
+
     }
 
 }

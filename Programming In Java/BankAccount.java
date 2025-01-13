@@ -47,7 +47,7 @@ public class BankAccount {
     }
 
     public static void main(String[] args) {
-        BankAccount account = new BankAccount("Zero Cool", 500);
+        BankAccount account = new BankAccount("Suraj Kumal", 500);
 
         account.deposit(200);
         account.deposit(-50);
@@ -61,5 +61,7 @@ public class BankAccount {
 
         account.addInterest(5);
         System.out.println("Final balance: Rs" + account.getBalance());
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 }

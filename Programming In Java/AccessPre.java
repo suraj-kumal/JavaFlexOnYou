@@ -31,5 +31,7 @@ public class AccessPre {
 
         System.out.println("Package-private variable: " + Sk.packageNum);
         Sk.packagePrivateMethod();
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 }

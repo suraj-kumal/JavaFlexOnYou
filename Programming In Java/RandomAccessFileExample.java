@@ -6,6 +6,8 @@ public class RandomAccessFileExample {
     static final String FILEPATH = "myFile.TXT";
 
     public static void main(String[] args) {
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
         try {
             File file = new File(FILEPATH);
             if (!file.exists()) {

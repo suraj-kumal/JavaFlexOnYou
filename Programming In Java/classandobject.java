@@ -15,6 +15,8 @@ public class classandobject {
     public static void main(String[] args) {
         // object
         new classandobject("abc", 32);
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 
 }

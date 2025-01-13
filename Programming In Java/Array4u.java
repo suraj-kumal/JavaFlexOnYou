@@ -14,5 +14,7 @@ public class Array4u {
             }
             System.out.println();
         }
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 }

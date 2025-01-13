@@ -5,5 +5,8 @@ public class ForEach {
         for (int num : listOfNumbers) {
             System.out.print(num + " ");
         }
+        System.out.println();
+        System.out.println("Name: Suraj Kumal");
+        System.out.println("Rollno : 32");
     }
 }
