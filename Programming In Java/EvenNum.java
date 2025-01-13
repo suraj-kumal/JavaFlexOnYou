@@ -49,6 +49,8 @@ public class EvenNum extends Thread {
             System.out.println(e);
         }
 
+
+
         EvenNum thread2 = new EvenNum(true);
         thread2.start();
         System.out.println("Name: Suraj Kumal");
