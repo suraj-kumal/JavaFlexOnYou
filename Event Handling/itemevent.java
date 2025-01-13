@@ -24,8 +24,8 @@ public class itemevent {
             public void itemStateChanged(ItemEvent e) {
                 if (checkBox.isSelected()) {
                     comboBox.setEnabled(true);
-                    label.setText("Select your favorite waifu:");
-                    updateComboBox("waifu");
+                    label.setText("Select your favorite Waifu:");
+                    updateComboBox("Waifu");
                 } else {
                     comboBox.setEnabled(false);
                     label.setText("Select an option:");
